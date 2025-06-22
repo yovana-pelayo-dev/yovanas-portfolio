@@ -13,6 +13,11 @@ font-family:monospace;
 }
 
 
+img {
+margin-right:auto;
+width:200px ;
+}
+
 p{
     display: flex;
     justify-content: center;
