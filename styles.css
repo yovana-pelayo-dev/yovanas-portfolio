@@ -1,7 +1,11 @@
 #header{
-border: 5px solid green;
+    border: 5px solid rgb(41, 144, 41);
+}
+#header p {
+text-align: center;
 
 }
+
 h1 {
 list-style-type: none;
 display: flex;
@@ -12,15 +16,12 @@ font-size: 20px ;
 font-family:monospace;
 }
 
+#about-me-box p{
+color: green;
+}
 
 img {
 margin-right:auto;
 width:200px ;
 }
 
-p{
-    display: flex;
-    justify-content: center;
-    color: rgb(20, 41, 34);
-    font-family:monospace;
-}
