@@ -1,5 +1,6 @@
 #header{
-    border: 5px solid rgb(41, 144, 41);
+    border: 3px solid rgb(41, 144, 41);
+    background-color: rgb(138, 202, 138);
 }
 #header p {
 text-align: center;
@@ -21,7 +22,34 @@ color: green;
 }
 
 img {
-margin-right:auto;
+margin-left:auto;
 width:200px ;
 }
 
+section{
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+margin-right:auto;
+}
+
+#app-1 {
+position: absolute;
+top:20%;
+border: 5px solid pink;
+}
+#app-2 {
+position: absolute;
+top:40%;
+border: 5px solid rgb(84, 225, 232);
+}
+
+#app-3 {
+    position: absolute;
+top:65%;
+border: 5px solid rgb(84, 232, 109);
+}
+
+ul{
+  list-style: none;  
+}
