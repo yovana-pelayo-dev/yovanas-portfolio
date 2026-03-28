@@ -1,0 +1,6 @@
+[submodule "todo-list"]
+	path = todo-list
+	url = https://github.com/yovana-pelayo-dev/todo-list.git
+[submodule "todo"]
+	path = todo
+	url = https://github.com/yovana-pelayo-dev/todo-list.git
