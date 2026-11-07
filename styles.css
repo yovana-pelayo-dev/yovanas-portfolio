@@ -49,18 +49,6 @@ position: absolute;
 top:20%;
 border: 5px solid pink;
 }
-#app-2 {
-position: absolute;
-top:40%;
-border: 5px solid rgb(84, 225, 232);
-}
 
-#app-3 {
-    position: absolute;
-top:65%;
-border: 5px solid rgb(84, 232, 109);
-}
 
-ul{
-  list-style: none;  
-}
+
